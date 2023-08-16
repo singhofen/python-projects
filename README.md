@@ -1,2 +1,2 @@
-# python-projects
-Various python programs
+### python-projects
+Various python programs for practice.
